@@ -15,3 +15,6 @@ This Jupyter notebook demonstrates the process of building and evaluating a mach
 The notebook uses the SHAP (SHapley Additive exPlanations) library to explain the model's predictions.
 The notebook also includes code to generate a word cloud of the most frequent words in the data.
 The data used in the notebook is a subset of the data from the Kaggle competition on Cyberbullying Detection.
+
+## Disclaimer 
+The information and code provided in this notebook are for educational purposes only. The authors do not guarantee the accuracy or completeness of the information or code. The authors are not responsible for any damages or losses that may result from the use of this information or code.
